@@ -8,6 +8,7 @@
     "kind": "plugin",
     "displayName": "CKEditor"
   },
+  "type": "module",
   "keywords": [
     "strapi",
     "ckeditor",
